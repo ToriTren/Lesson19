@@ -1,0 +1,13 @@
+div{
+  height: 900px;
+  width: 500px;
+}
+
+.text::first-line{
+text-indent: 25px;
+color: #808080;
+font-size: 20px;
+line-height: 30px;
+font-style: bold;
+letter-spacing: 2px;
+}
